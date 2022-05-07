@@ -1,4 +1,4 @@
-import TransactionList from './components/TransactionList';
+import TransactionList from './components/Expenses/TransactionList/TransactionList';
 function App() {
   const expenses = [
     {

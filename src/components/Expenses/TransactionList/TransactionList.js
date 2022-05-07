@@ -1,6 +1,6 @@
 import './TransactionList.css';
-import ExpenseItem from './ExpenseItem';
-import Card from './Card';
+import ExpenseItem from '../ExpensesItem/ExpenseItem';
+import Card from '../../UI/Card/Card';
 
 const TransactionList = ({ expenses }) => {
   return (
